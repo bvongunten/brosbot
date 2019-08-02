@@ -18,6 +18,16 @@
 	<name>Brosbot FX Bot</name>
    
     <dependencies>
+	        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>12.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-fxml</artifactId>
+            <version>12.0.2</version>
+        </dependency>
         <dependency>
             <groupId>ch.nostromo.brosbot</groupId>
             <artifactId>api</artifactId>
